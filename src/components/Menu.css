@@ -1,0 +1,25 @@
+/* Menu.css */
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px; /* Adjust padding for overall spacing */
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 42px; /* Adjust the gap to set more distance between items */
+}
+
+li {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    margin: 0;
+}
